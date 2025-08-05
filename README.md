@@ -111,8 +111,5 @@ You can modify the following parameters in the code:
 - `run_web_app.sh` - Script to start web application
 - `requirements.txt` - Python dependencies
 - `README.md` - This documentation # chat-app
-# chatapp
-# chat-app
-# chat-app
-# chatbot-with-LM-Studio
+
 # chatbot-with-LM-Studio
